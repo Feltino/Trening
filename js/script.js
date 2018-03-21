@@ -1,0 +1,2 @@
+$(function(){$(".rslides").responsiveSlides()});
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNjcmlwdC5qcyJdLCJuYW1lcyI6WyIkIiwicmVzcG9uc2l2ZVNsaWRlcyJdLCJtYXBwaW5ncyI6IkFBRUVBLEVBQUUsV0FDQUEsRUFBRSxZQUFZQyIsImZpbGUiOiJzY3JpcHQuanMiLCJzb3VyY2VzQ29udGVudCI6WyJcclxuXHJcbiAgJChmdW5jdGlvbigpIHtcclxuICAgICQoXCIucnNsaWRlc1wiKS5yZXNwb25zaXZlU2xpZGVzKCk7XHJcbiAgfSk7Il19
